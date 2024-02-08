@@ -31,7 +31,7 @@ github handle: hodginsl
 # Alina Tan
 I work on finding casual genes via protein interactors
 email: dandan.tan@mail.mcgill.ca
-github handle: AlinaTan77
+
 
 # César Miguel Valdez Córdova
 I work on ML for biology.
